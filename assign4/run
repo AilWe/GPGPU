@@ -1,0 +1,1 @@
+gcc $1.c -lGL -lGLU -lglut -o $1
